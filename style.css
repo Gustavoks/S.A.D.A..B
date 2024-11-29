@@ -69,10 +69,9 @@
   }
   
   .image-box img {
-    max-width: 500px;
+    max-width: 600px;
     height: auto;
-    border-radius: 10px;
-    border: 1px solid #ddd;
+   
   }
   
   .legend {
