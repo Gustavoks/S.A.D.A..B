@@ -21,7 +21,8 @@
     url('jornal-voz-ativa-ouro-preto-mg-minas-gerais-op-materia-caso-samarco-sistema-indenizatorio-criado-em-2020-fecha-em-2909-19092023161901.jpg') no-repeat center center/cover;
   }
   .logo{
-    animation: loading 2s linear infinite;
+    animation: loading 10s linear infinite;
+    z-index: -1;
   }
   header{
     display: flex;
