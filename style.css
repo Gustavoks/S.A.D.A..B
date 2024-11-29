@@ -22,7 +22,7 @@
   }
   .logo{
     animation: loading 10s linear infinite;
-    z-index: -1;
+   
   }
   header{
     display: flex;
@@ -30,6 +30,7 @@
     height: 20px;
     margin: 20px;
     flex-direction: column;
+   
   }
   /* Layout Principal */
   .landing-page {
@@ -50,6 +51,7 @@
     padding: 40px 40px;
     border-radius: 10px;
     margin-right: 15px;
+    z-index: 2;
     max-width: 40%;
   }
   
